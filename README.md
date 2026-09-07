@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://specter-vale.github.io">Site</a> ·
+  <a href="https://specter-systems.github.io">Site</a> ·
   <a href="https://www.fiverr.com/s/dDmB3YZ">Hire on Fiverr</a> ·
   <a href="mailto:specter00000000@gmail.com">Email</a>
 </p>
@@ -43,9 +43,16 @@ Based in **Doha, Qatar (GMT+3)**. Working remotely worldwide. Currently taking o
 `Claude API` `Model Context Protocol` `n8n` `OAuth 2.1`
 `Meta Graph API` `WhatsApp Cloud API` `LinkedIn API` `Shopify` `Odoo` `Vercel` `GitHub Actions`
 
-### Working on
+### How to engage
 
-Defensive security tooling — endpoint monitoring and credential-access detection — alongside the automation work.
+| Engagement | What you get | From |
+| --- | --- | --- |
+| Bug fix / site repair | A specific, defined defect diagnosed and fixed. Ordered through Fiverr with buyer protection. | $15 |
+| Automation build | One workflow taken end to end — scoped, built, deployed, handed over with documentation. | $300 |
+| Custom MCP connector | A Claude connector for your tool or platform: auth, tools, deployment and a maintenance window. | $500 |
+| Ongoing retainer | Monthly capacity for maintenance, extensions and new automations across your stack. | Let's talk |
+
+Fixed scope, fixed price, agreed before work starts. First engagements are deliberately small — you should be able to test whether I'm worth hiring without a large commitment.
 
 ---
 
