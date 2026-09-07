@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://specter-systems.github.io">Site</a> ·
-  <a href="https://www.fiverr.com/s/dDmB3YZ">Hire on Fiverr</a> ·
+  <a href="https://www.fiverr.com/specter_nihal">Hire on Fiverr</a> ·
   <a href="mailto:specter00000000@gmail.com">Email</a>
 </p>
 
